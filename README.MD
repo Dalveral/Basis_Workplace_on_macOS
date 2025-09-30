@@ -1,4 +1,4 @@
-# Установка и запуск Basis.WorkSpace через Wine / Crossover
+# Установка и запуск Basis.WorkSpace через Wine / Crossover на macOS
 
 ## Принцип работы
 
